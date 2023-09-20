@@ -8,7 +8,7 @@ image_location = "../../image_data/AppleTree.png"
 def rgb_to_grey(image_file:str):
     im = Image.open(image_location)
     image_data = np.array(im)
-    grey_data=(image_data[:,:,0]+image_data[:,:,1] +image_data[:,:,2])/3
+    grey_data=(image_data[:,:,0]+image_data[:,:,1] + image_data[:,:,2])/3
     print(grey_data.shape)
     gray_img = Image.fromarray(grey_data)
     gray_img = gray_img.convert('L')
