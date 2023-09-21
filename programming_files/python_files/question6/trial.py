@@ -16,3 +16,5 @@ for index,ele in enumerate(eq_list):
     logging.info(f"parent of index{index} is {parent}")
     eq_list[index]=parent
 print(eq_list)
+
+
