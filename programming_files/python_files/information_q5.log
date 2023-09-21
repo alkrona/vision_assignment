@@ -1,0 +1,81 @@
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: this array cause the problem [0 0 0 0]
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: code failed when it tried to push 255 in [1, 1]
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: code failed when it tried to push 255 in [1, 1]
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: the eqlist at the start is [0]
+INFO:root: code failed when it tried to push 255 in [1, 1]
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: the eqlist at the start is [0]
+INFO:root:this is the useful array[3 3 3 0]
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: the eqlist at the start is [0]
+INFO:root: faliure occured at element (31, 108)
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: the eqlist at the start is [0]
+INFO:root: faliure occured at element (31, 108)
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: the eqlist at the start is [0]
+INFO:root: faliure occured at element (31, 108)
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: the eqlist at the start is [0]
+INFO:root: faliure occured at element (31, 108)
+INFO:root: code failed when it tried to push 255 in [1, 1]
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: the eqlist at the start is [0]
+INFO:root: faliure occured at element (31, 108)
+INFO:root:this is the temp list [  0   0   1 255]
+INFO:root: code failed when it tried to push 255 in [1, 1]
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: the eqlist at the start is [0]
+INFO:root:this is the useful array[3 3 3 0]
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: the eqlist at the start is [0]
+INFO:root:this is the useful array[3 3 3 0]
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:took the file
+INFO:root:preprocessed the image
+INFO:root: the eqlist at the start is [0]
+INFO:root:this is the useful array[5 5 5 0]
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
