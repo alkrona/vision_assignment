@@ -1,0 +1,10 @@
+INFO:root:parent of index0 is 0
+INFO:root:parent of index1 is 1
+INFO:root:parent of index1 is 1
+INFO:root:parent of index2 is 1
+INFO:root:parent of index4 is 4
+INFO:root:parent of index0 is 0
+INFO:root:parent of index1 is 1
+INFO:root:parent of index2 is 1
+INFO:root:parent of index3 is 1
+INFO:root:parent of index4 is 4
